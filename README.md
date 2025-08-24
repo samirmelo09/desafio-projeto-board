@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 [README.md](https://github.com/user-attachments/files/21958406/README.md)
+=======
+>>>>>>> 85be4c8 (pom e database)
 # 🧭 TaskBoard – Console + MySQL
 
 ![Java](https://img.shields.io/badge/Java-17-blue)
